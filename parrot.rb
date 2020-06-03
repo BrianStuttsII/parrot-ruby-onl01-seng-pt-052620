@@ -8,7 +8,7 @@
 #end
 
 
-def parrot
+def parrot (phrase = "Squawk!")
   phrase = "Squawk!"
   puts "Squawk!"
   return phrase
